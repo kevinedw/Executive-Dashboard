@@ -1,34 +1,29 @@
 # Executive-Dashboard
 
 ## Overview
-Plot the correlations for each marketing channel compared to Sales
+Create a dashboard that displays core business KPIs on a weekly, monthly, and yearly basis. 
 
-<img src="https://github.com/wylee3/marketing-linear-regressions/blob/main/Facebook_feed_Impr.png" width="500" />
+<img src="https://github.com/wylee3/Executive-Dashboard/blob/main/Org-Dashboard.PNG" width="500" />
 
-## Code Used:
-* Python: python 3.11.8
-* Packages: numpy, pandas, seaborn, matplotlib, sklearn, os
-* Anaconda 2.6.0
-* Jupyter 7.0.8
+## Applications Used:
+* Power BI
+* Excel
+* Google Analytics
 
 ## Data Sources
-* Saleforce
+* Saleforce (Connected and exports)
 * Google Analytics
 * Facebook Ads Manager
 
 *Data privacy through one or many of the following steps applied to original data: random functions, deletion/addition, other math functions*
 
 ## Data Cleaning
-* SQL
+* Power BI
 * Excel
 
-Data was imported into SQL Server Management Studio where specific columns were taken from multiple tables, and then joined into a master table. 
-Exported as a csv file. This master file was initially created for another project but served well for these correlations. To work with this data for 
-this project, it was hand-edited in Excel to delete columns for individual channel-only csv files.
-
-[SQL file](https://github.com/wylee3/marketing-linear-regressions/blob/9a1fc2df0952b384e930bc9e68a45cb49eb52003/SQL-CorrelationPrep_v3-portfolio.sql)
+Data was imported into Power BI from exported csv files or connection to Salesforce.
 
 ## Exploratory Data Analysis (EDA)
-This gave insight into the best correlating channel which went against marketing's pre-determined gut feelings.
+This 
 
 ## Model Building

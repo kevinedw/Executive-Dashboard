@@ -23,7 +23,3 @@ Create a dashboard that displays core business KPIs on a weekly, monthly, and ye
 
 Data was imported into Power BI from exported csv files or connection to Salesforce.
 
-## Exploratory Data Analysis (EDA)
-This 
-
-## Model Building

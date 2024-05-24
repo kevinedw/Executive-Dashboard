@@ -3,7 +3,7 @@
 ## Overview
 Create a dashboard that displays core business KPIs on a weekly, monthly, and yearly basis. 
 
-<img src=".IMAGE/Org-Dashboard.jpg" width="500" />
+<img src="https://github.com/kevinedw/Executive-Dashboard/blob/main/IMAGE/Org-Dashboard.jpg" width="500" />
 
 ## Applications Used:
 * Power BI

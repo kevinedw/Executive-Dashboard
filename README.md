@@ -11,7 +11,7 @@ Create a dashboard that displays core business KPIs on a weekly, monthly, and ye
 * Google Analytics
 
 ## Data Sources
-* Saleforce (Connected and exports)
+* CRM (Connected and exports)
 * Google Analytics
 * Facebook Ads Manager
 
@@ -21,5 +21,5 @@ Create a dashboard that displays core business KPIs on a weekly, monthly, and ye
 * Power BI
 * Excel
 
-Data was imported into Power BI from exported csv files or connection to Salesforce.
+Data was imported into Power BI from exported csv files or connection to CRM.
 
